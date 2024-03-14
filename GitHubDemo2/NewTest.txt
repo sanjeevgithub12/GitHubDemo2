@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is from Eclipse
+=======
+
+>>>>>>> branch 'master' of https://github.com/sanjeevgithub12/GitHubDemo2.git
